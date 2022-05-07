@@ -1,0 +1,32 @@
+body {
+    font-family: Inter;
+}
+.heading {
+    color: #000;
+    background-color: transparent;
+    width: 100%;
+    text-align: left;
+    border: none;
+}
+.heading:hover {
+    color: #000;
+    background-color: transparent;
+}
+.heading h3 {
+    display: inline;
+}
+.heading button {
+    color: black;
+    background-color:dodgerblue;
+    float: right;
+    border-radius: 20px;
+    border: 2px solid rgb(45, 136, 255);
+}
+.heading button:hover {
+    border: 2px solid rgb(45, 136, 255);
+    color: black;
+    background-color: dodgerblue;
+}
+#start, status {
+    font-size: 15px;
+}
