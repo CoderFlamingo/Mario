@@ -17,7 +17,7 @@ body {
 }
 .heading button {
     color: black;
-    background-color:dodgerblue;
+    background-color: #ffffff27;
     float: right;
     border-radius: 20px;
     border: 2px solid rgb(45, 136, 255);
@@ -29,4 +29,14 @@ body {
 }
 #start, status {
     font-size: 15px;
+}
+h4 {
+    background-color: #fff;
+}
+.modal-dialog {
+    width: 90%;
+}
+.instruction_image {
+    display: inline-block;
+    width: 45%;
 }
